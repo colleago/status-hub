@@ -11,9 +11,9 @@
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.81%",
     "time": 1025,
-    "timeDay": 494,
-    "timeWeek": 682,
-    "timeMonth": 982,
+    "timeDay": 1010,
+    "timeWeek": 766,
+    "timeMonth": 984,
     "timeYear": 1025,
     "dailyMinutesDown": {
       "2023-02-23": 96
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.81%",
-    "time": 162,
-    "timeDay": 43,
-    "timeWeek": 107,
-    "timeMonth": 172,
-    "timeYear": 162,
+    "time": 161,
+    "timeDay": 108,
+    "timeWeek": 113,
+    "timeMonth": 169,
+    "timeYear": 161,
     "dailyMinutesDown": {
       "2023-02-23": 95
     }
@@ -45,16 +45,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.colleago.co.ico",
     "slug": "api-service",
     "status": "up",
-    "uptime": "99.77%",
+    "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
-    "uptimeYear": "99.77%",
-    "time": 768,
-    "timeDay": 856,
-    "timeWeek": 821,
+    "uptimeYear": "99.78%",
+    "time": 767,
+    "timeDay": 717,
+    "timeWeek": 799,
     "timeMonth": 769,
-    "timeYear": 768,
+    "timeYear": 767,
     "dailyMinutesDown": {
       "2023-03-02": 18,
       "2023-02-23": 95
