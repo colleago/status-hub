@@ -4,10 +4,10 @@
     "url": "https://colleago.co",
     "icon": "https://icons.duckduckgo.com/ip3/colleago.co.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.94%",
     "time": 806,
@@ -16,6 +16,7 @@
     "timeMonth": 601,
     "timeYear": 806,
     "dailyMinutesDown": {
+      "2023-08-08": 1,
       "2023-07-26": 32,
       "2023-06-18": 38,
       "2023-02-23": 96
@@ -26,10 +27,10 @@
     "url": "https://admin.colleago.co",
     "icon": "https://icons.duckduckgo.com/ip3/admin.colleago.co.ico",
     "slug": "admin-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 142,
@@ -38,6 +39,7 @@
     "timeMonth": 103,
     "timeYear": 142,
     "dailyMinutesDown": {
+      "2023-08-08": 1,
       "2023-02-23": 95
     }
   },
@@ -46,9 +48,9 @@
     "url": "https://api.colleago.co",
     "icon": "https://icons.duckduckgo.com/ip3/api.colleago.co.ico",
     "slug": "api-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
@@ -58,6 +60,7 @@
     "timeMonth": 818,
     "timeYear": 796,
     "dailyMinutesDown": {
+      "2023-08-08": 0,
       "2023-05-31": 26,
       "2023-03-18": 109,
       "2023-03-02": 18,
