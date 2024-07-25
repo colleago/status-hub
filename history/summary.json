@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/colleago.co.ico",
     "slug": "website",
     "status": "up",
-    "uptime": "98.98%",
+    "uptime": "98.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.53%",
     "time": 644,
-    "timeDay": 479,
-    "timeWeek": 433,
-    "timeMonth": 557,
-    "timeYear": 604,
+    "timeDay": 493,
+    "timeWeek": 454,
+    "timeMonth": 564,
+    "timeYear": 605,
     "dailyMinutesDown": {
       "2024-06-18": 712,
       "2024-06-17": 7,
@@ -32,8 +32,7 @@
       "2023-12-13": 517,
       "2023-12-06": 366,
       "2023-12-05": 270,
-      "2023-08-08": 15,
-      "2023-07-26": 32
+      "2023-08-08": 15
     }
   },
   {
@@ -48,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 126,
-    "timeDay": 62,
-    "timeWeek": 80,
-    "timeMonth": 144,
+    "timeDay": 106,
+    "timeWeek": 85,
+    "timeMonth": 146,
     "timeYear": 121,
     "dailyMinutesDown": {
       "2024-05-07": 149
@@ -68,9 +67,9 @@
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.61%",
     "time": 846,
-    "timeDay": 606,
-    "timeWeek": 832,
-    "timeMonth": 805,
+    "timeDay": 821,
+    "timeWeek": 826,
+    "timeMonth": 812,
     "timeYear": 854,
     "dailyMinutesDown": {
       "2024-07-22": 161,
