@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/colleago.co.ico",
     "slug": "website",
     "status": "up",
-    "uptime": "98.57%",
+    "uptime": "98.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.27%",
     "uptimeYear": "97.59%",
-    "time": 602,
-    "timeDay": 441,
-    "timeWeek": 473,
-    "timeMonth": 535,
+    "time": 601,
+    "timeDay": 361,
+    "timeWeek": 466,
+    "timeMonth": 531,
     "timeYear": 614,
     "dailyMinutesDown": {
       "2024-10-04": 456,
@@ -52,10 +52,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 126,
-    "timeDay": 116,
-    "timeWeek": 110,
-    "timeMonth": 106,
-    "timeYear": 114,
+    "timeDay": 70,
+    "timeWeek": 105,
+    "timeMonth": 104,
+    "timeYear": 113,
     "dailyMinutesDown": {
       "2024-05-07": 149
     }
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.32%",
-    "time": 874,
-    "timeDay": 882,
-    "timeWeek": 812,
-    "timeMonth": 829,
-    "timeYear": 856,
+    "time": 875,
+    "timeDay": 856,
+    "timeWeek": 813,
+    "timeMonth": 830,
+    "timeYear": 857,
     "dailyMinutesDown": {
       "2024-10-08": 116,
       "2024-09-10": 591,
@@ -85,8 +85,7 @@
       "2024-05-07": 149,
       "2024-04-22": 367,
       "2024-04-05": 21,
-      "2024-03-06": 406,
-      "2023-10-24": 60
+      "2024-03-06": 406
     }
   }
 ]
