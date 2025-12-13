@@ -6,17 +6,16 @@
     "slug": "website",
     "status": "up",
     "uptime": "98.66%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 626,
-    "timeDay": 507,
-    "timeWeek": 496,
+    "time": 625,
+    "timeDay": 421,
+    "timeWeek": 501,
     "timeMonth": 508,
     "timeYear": 632,
     "dailyMinutesDown": {
-      "2025-12-12": 8,
       "2025-10-24": 17,
       "2025-08-18": 19,
       "2025-04-17": 27,
@@ -31,18 +30,16 @@
     "slug": "admin-portal",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 142,
-    "timeDay": 178,
-    "timeWeek": 138,
-    "timeMonth": 159,
+    "time": 141,
+    "timeDay": 104,
+    "timeWeek": 126,
+    "timeMonth": 160,
     "timeYear": 146,
-    "dailyMinutesDown": {
-      "2025-12-12": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "API Service",
@@ -51,17 +48,15 @@
     "slug": "api-service",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 843,
-    "timeDay": 898,
-    "timeWeek": 788,
+    "timeDay": 719,
+    "timeWeek": 749,
     "timeMonth": 771,
     "timeYear": 792,
-    "dailyMinutesDown": {
-      "2025-12-12": 7
-    }
+    "dailyMinutesDown": {}
   }
 ]
