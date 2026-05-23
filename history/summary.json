@@ -43,17 +43,19 @@
     "url": "https://api.colleago.co",
     "icon": "https://icons.duckduckgo.com/ip3/api.colleago.co.ico",
     "slug": "api-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 786,
-    "timeDay": 834,
-    "timeWeek": 789,
-    "timeMonth": 786,
-    "timeYear": 787,
-    "dailyMinutesDown": {}
+    "timeDay": 688,
+    "timeWeek": 758,
+    "timeMonth": 778,
+    "timeYear": 786,
+    "dailyMinutesDown": {
+      "2026-05-23": 0
+    }
   }
 ]
