@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/colleago.co.ico",
     "slug": "website",
     "status": "up",
-    "uptime": "98.95%",
+    "uptime": "98.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 554,
-    "timeDay": 613,
-    "timeWeek": 499,
-    "timeMonth": 505,
-    "timeYear": 526,
+    "timeDay": 260,
+    "timeWeek": 446,
+    "timeMonth": 494,
+    "timeYear": 525,
     "dailyMinutesDown": {
       "2025-10-24": 17
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 170,
-    "timeDay": 181,
-    "timeWeek": 161,
-    "timeMonth": 170,
+    "timeDay": 155,
+    "timeWeek": 159,
+    "timeMonth": 171,
     "timeYear": 168,
     "dailyMinutesDown": {}
   },
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 738,
-    "timeDay": 704,
-    "timeWeek": 634,
-    "timeMonth": 623,
+    "timeDay": 670,
+    "timeWeek": 652,
+    "timeMonth": 624,
     "timeYear": 710,
     "dailyMinutesDown": {
       "2026-05-23": 29
