@@ -4,19 +4,19 @@
     "url": "https://colleago.co",
     "icon": "https://icons.duckduckgo.com/ip3/colleago.co.ico",
     "slug": "website",
-    "status": "down",
+    "status": "up",
     "uptime": "98.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 555,
-    "timeDay": 391,
-    "timeWeek": 444,
-    "timeMonth": 494,
-    "timeYear": 526,
+    "time": 556,
+    "timeDay": 677,
+    "timeWeek": 509,
+    "timeMonth": 509,
+    "timeYear": 527,
     "dailyMinutesDown": {
-      "2026-11-09": 0
+      "2026-11-09": 11
     }
   },
   {
