@@ -6,18 +6,16 @@
     "slug": "website",
     "status": "up",
     "uptime": "98.98%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 556,
-    "timeDay": 677,
-    "timeWeek": 509,
-    "timeMonth": 509,
+    "timeDay": 732,
+    "timeWeek": 536,
+    "timeMonth": 508,
     "timeYear": 527,
-    "dailyMinutesDown": {
-      "2026-11-09": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Admin Portal",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 167,
-    "timeDay": 47,
-    "timeWeek": 137,
-    "timeMonth": 124,
+    "timeDay": 59,
+    "timeWeek": 131,
+    "timeMonth": 121,
     "timeYear": 167,
     "dailyMinutesDown": {}
   },
@@ -48,10 +46,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 724,
-    "timeDay": 441,
-    "timeWeek": 627,
-    "timeMonth": 617,
+    "time": 723,
+    "timeDay": 446,
+    "timeWeek": 583,
+    "timeMonth": 614,
     "timeYear": 695,
     "dailyMinutesDown": {
       "2026-05-23": 29
